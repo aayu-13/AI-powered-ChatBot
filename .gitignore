@@ -1,0 +1,11 @@
+# Virtual environment
+myenv/
+venv/
+.env
+
+# ChromaDB vectors
+data/
+
+# Python cache
+__pycache__/
+*.pyc
